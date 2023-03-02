@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Khaman - Dhokla",
+      "price": 70,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "khaman.jpeg",
+      "category": "Breakfast"
+    },
+    {
+      "id": 2,
+      "name": "Vanela Ganthiya",
+      "price": 80,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "gathiya.jpeg",
+      "category": "Breakfast"
+    },
+    {
+      "id": 3,
+      "name": "Chhapan Bhog",
+      "price": 350,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "chhapanbhog.jpeg",
+      "category": "Lunch"
+    },
+    {
+      "id": 4,
+      "name": "Roti - Sabji",
+      "price": 150,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "rotisabji.jpeg",
+      "category": "Lunch"
+    },
+    {
+      "id": 5,
+      "name": "Mango Juice",
+      "price": 50,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "mangojuice.jpeg",
+      "category": "Shakes"
+    },
+    {
+      "id": 6,
+      "name": "Cold coco",
+      "price": 100,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "coldcoco.jpeg",
+      "category": "Shakes"
+    },
+    {
+      "id": 7,
+      "name": "Thepla",
+      "price": 130,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "thepla.jpeg",
+      "category": "Dinner"
+    },
+    {
+      "id": 8,
+      "name": "Jalebi - Fafda",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi commodi aliquid nisi. Explicabo exercitationem nulla aliquid ea recusandae. Facilis, animi?",
+      "image": "fafdajalebi.jpeg",
+      "category": "Breakfast"
+    }
+  ]
+}
